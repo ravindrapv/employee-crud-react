@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Compiled files
+*.js
+*.js.map
+*.d.ts
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+npm-debug.log
+yarn-error.log
